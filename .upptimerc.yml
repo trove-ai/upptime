@@ -12,11 +12,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /trove-ai
+  baseUrl: /upptime
   logoUrl: https://avatars.githubusercontent.com/u/115437659
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Trove service status page
+  introTitle: "Trove service status page"
+  introMessage: "This page shows the statuses of Trove services"
   navbar:
     - title: Status
       href: /

@@ -6,17 +6,16 @@
     "slug": "trove-email",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.89%",
     "time": 103,
-    "timeDay": 79,
-    "timeWeek": 100,
+    "timeDay": 85,
+    "timeWeek": 93,
     "timeMonth": 105,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2023-07-26": 7,
       "2023-07-18": 130
     }
   },
@@ -27,17 +26,16 @@
     "slug": "trove-web-app",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.89%",
     "time": 96,
-    "timeDay": 78,
-    "timeWeek": 95,
+    "timeDay": 76,
+    "timeWeek": 88,
     "timeMonth": 106,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2023-07-26": 6,
       "2023-07-18": 130
     }
   }

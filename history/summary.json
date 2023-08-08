@@ -4,10 +4,10 @@
     "url": "https://email.gettrove.co",
     "icon": "https://icons.duckduckgo.com/ip3/email.gettrove.co.ico",
     "slug": "trove-email",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
     "time": 108,
@@ -16,6 +16,7 @@
     "timeMonth": 120,
     "timeYear": 108,
     "dailyMinutesDown": {
+      "2023-08-08": 1,
       "2023-07-18": 130
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://webapp.gettrove.co",
     "icon": "https://icons.duckduckgo.com/ip3/webapp.gettrove.co.ico",
     "slug": "trove-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 109,
     "timeYear": 99,
     "dailyMinutesDown": {
+      "2023-08-08": 0,
       "2023-07-18": 130
     }
   }

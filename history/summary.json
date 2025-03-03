@@ -4,17 +4,19 @@
     "url": "https://gettrove.co",
     "icon": "https://icons.duckduckgo.com/ip3/gettrove.co.ico",
     "slug": "trove-survey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 73,
-    "timeWeek": 102,
-    "timeMonth": 98,
-    "timeYear": 98,
-    "dailyMinutesDown": {}
+    "timeDay": 80,
+    "timeWeek": 100,
+    "timeMonth": 97,
+    "timeYear": 97,
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   }
 ]

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gettrove.co.ico",
     "slug": "trove-survey",
     "status": "up",
-    "uptime": "60.49%",
+    "uptime": "60.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "15.30%",
-    "time": 477,
-    "timeDay": 886,
-    "timeWeek": 1247,
-    "timeMonth": 921,
-    "timeYear": 916,
+    "uptimeYear": "15.57%",
+    "time": 480,
+    "timeDay": 517,
+    "timeWeek": 1043,
+    "timeMonth": 916,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2026-04-04": 16,
       "2026-03-26": 46,
@@ -328,8 +328,7 @@
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
-      "2025-04-21": 1440,
-      "2025-04-20": 1440
+      "2025-04-21": 1440
     }
   }
 ]

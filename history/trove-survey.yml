@@ -1,7 +1,7 @@
 url: https://gettrove.co
-status: up
-code: 200
-responseTime: 1032
-lastUpdated: 2026-06-05T23:30:22.897Z
+status: down
+code: 500
+responseTime: 2819
+lastUpdated: 2026-06-06T06:02:50.123Z
 startTime: 2023-11-01T05:43:48.460Z
 generator: Upptime <https://github.com/upptime/upptime>

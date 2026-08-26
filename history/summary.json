@@ -4,17 +4,17 @@
     "url": "https://gettrove.co",
     "icon": "https://icons.duckduckgo.com/ip3/gettrove.co.ico",
     "slug": "trove-survey",
-    "status": "down",
-    "uptime": "65.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "65.42%",
+    "uptimeDay": "80.70%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "50.72%",
-    "time": 824,
-    "timeDay": 717,
-    "timeWeek": 659,
-    "timeMonth": 677,
-    "timeYear": 824,
+    "time": 823,
+    "timeDay": 635,
+    "timeWeek": 638,
+    "timeMonth": 671,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2026-02-22": 168,
       "2026-02-21": 1440,
@@ -206,7 +206,8 @@
       "2026-05-08": 28,
       "2026-05-26": 36,
       "2026-06-06": 271,
-      "2026-06-08": 15
+      "2026-06-08": 15,
+      "2026-08-26": 278
     }
   }
 ]
